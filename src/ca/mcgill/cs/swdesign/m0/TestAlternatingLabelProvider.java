@@ -34,4 +34,4 @@ public class TestAlternatingLabelProvider
         assertEquals(LABEL_2, aFixture.getLabel(false));
         assertEquals(LABEL_1 + " " + LABEL_2, aFixture.getBoth());
     }
-}
+}z
